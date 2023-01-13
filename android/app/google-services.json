@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "565902951489",
+    "project_id": "blogup-9f245",
+    "storage_bucket": "blogup-9f245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565902951489:android:691fd972db0e21520572c0",
+        "android_client_info": {
+          "package_name": "com.blogup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565902951489-o6d71qhst5ne7ru0mc5hddqjbmruabne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blogup",
+            "certificate_hash": "2f87b7c9dcd0d2cce02a4191132ce3b820451077"
+          }
+        },
+        {
+          "client_id": "565902951489-v9p3ust4k6slsh2es1dbrv1pulh0k25h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blogup",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "565902951489-opoqqba06qadinjl2f08d6n84gdmptev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP3JJWEGUEJjzXuQTiCfrnBDym1gDyicU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565902951489-opoqqba06qadinjl2f08d6n84gdmptev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
